@@ -1,2 +1,3 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
+[Patika icon](https://app.patika.dev/staticFiles/newPatikaLogo.svg)
